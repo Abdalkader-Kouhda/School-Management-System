@@ -6,7 +6,7 @@ The Student Management System is a PHP-based web application designed to manage 
 
 - Add a student: Capture student details including name, ID, class, and contact information.
 - Add a course: Create courses with their respective names and descriptions.
-- Get students by class: Retrieve a list of students belonging to a specific class.
+- Get students by Major: Retrieve a list of students belonging to a specific major.
 - Register a student to a course: Enroll a student in a course to track their progress and grades.
 - Get students by course: View a list of students enrolled in a particular course.
 - Enter a grade for a student by course: Record and update grades for students in specific courses.
