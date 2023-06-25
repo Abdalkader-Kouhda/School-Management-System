@@ -37,7 +37,7 @@ The Student Management System is a PHP-based web application designed to manage 
 
 The following individuals have contributed to the development of the Student Management System project:
 
--Abdalkader Kouhda
+- Abdalkader Kouhda
 - Ahmad Bakkar
 
 We extend our gratitude to all the contributors for their valuable efforts and contributions to make this project a success.
